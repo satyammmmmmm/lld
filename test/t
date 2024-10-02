@@ -1,7 +1,0 @@
-package t
-
-import "fmt"
-
-func Abc() {
-	fmt.Println("hello")
-}
